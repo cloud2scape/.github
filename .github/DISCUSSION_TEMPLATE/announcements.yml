@@ -7,7 +7,7 @@ body:
         ## 지난 주
         
   - type: textarea
-    id: improvements
+    id: last_cj
     attributes:
       label: 찬준
       description: "지난 주 업무 입력"
@@ -18,7 +18,7 @@ body:
       required: false
 
   - type: textarea
-    id: improvements
+    id: last_ny
     attributes:
       label: 나연
       description: "지난 주 업무 입력"
@@ -29,7 +29,7 @@ body:
       required: false
       
   - type: textarea
-    id: improvements
+    id: last_sm
     attributes:
       label: 수민
       description: "지난 주 업무 입력"
@@ -40,7 +40,7 @@ body:
       required: false
       
   - type: textarea
-    id: improvements
+    id: last_jo
     attributes:
       label: 재욱
       description: "지난 주 업무 입력"
@@ -56,7 +56,7 @@ body:
         ## 지난 주
 
   - type: textarea
-    id: improvements
+    id: this_cj
     attributes:
       label: 찬준
       description: "이번 주 업무 입력"
@@ -67,7 +67,7 @@ body:
       required: false
 
   - type: textarea
-    id: improvements
+    id: this_ny
     attributes:
       label: 나연
       description: "이번 주 업무 입력"
@@ -78,7 +78,7 @@ body:
       required: false
       
   - type: textarea
-    id: improvements
+    id: this_sm
     attributes:
       label: 수민
       description: "이번 주 업무 입력"
@@ -89,7 +89,7 @@ body:
       required: false
       
   - type: textarea
-    id: improvements
+    id: this_jo
     attributes:
       label: 재욱
       description: "이번 주 업무 입력"
