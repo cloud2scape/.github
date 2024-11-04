@@ -55,7 +55,7 @@ body:
       value: |
         ## 지난 주
 
-    - type: textarea
+  - type: textarea
     id: improvements
     attributes:
       label: 찬준
